@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+		<string id="st_wpn_akm_isg">
+		<text>Rifle Dynamics RD-47 ISG Tactical</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text> A custom model developed on the foundation of the AKM by the American company Rifle Dynamics. It is one of the most high-quality and modern weapons in the Zone. Several shipments of Rifle Dynamics' AK variants were sent to Ukraine for weapons trials with the goal of adoption by Ukrainian Special Forces, Rifle Dynamics was looking to sell manufacturing licenses to Eastern European Powers. However the trials were cancelled and the AK12 2016 was adopted along with the AEK for special forces. Several of these Rifle Dynamics Demonstration and Trial guns have slowly made their way to the zone over the years and are exclusively used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Devices: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] • %c[ui_gray_2] Scopes: All scopes for picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silencer: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+	
+			<string id="st_wpn_ak74_isg">
+		<text>Rifle Dynamics RD-74N ISG Tactical</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>A custom model developed on the foundation of the AK-74N by the American company Rifle Dynamics. It is one of the most high-quality and modern weapons in the Zone. Several shipments of Rifle Dynamics' AK variants were sent to Ukraine for weapons trials with the goal of adoption by Ukrainian Special Forces, Rifle Dynamics was looking to sell manufacturing licenses to Eastern European Powers. However the trials were cancelled and the AK12 2016 was adopted along with the AEK for special forces. Several of these Rifle Dynamics Demonstration and Trials guns have slowly made their way to the zone over the years and are exclusively used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Devices: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] • %c[ui_gray_2] Scopes: All scopes for picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silencer: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+	
+			<string id="st_wpn_ak74u_isg">
+		<text>Rifle Dynamics RD-74U ISG</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text> A custom model developed on the foundation of the AKS-74U by the American company Rifle Dynamics. It is one of the most high-quality and modern weapons in the Zone. Several shipments of Rifle Dynamics' AK variants were sent to Ukraine for weapons trials with the goal of adoption by Ukrainian Special Forces, Rifle Dynamics was looking to sell manufacturing licenses to Eastern European Powers. However the trials were cancelled and the AK12 2016 was adopted along with the AEK for special forces. Several of these Rifle Dynamics Demonstration and Trial guns have slowly made their way to the zone  over the years and are exclusively used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Scopes: All scopes for picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silencer: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+
+		<string id="st_wpn_ak74u_m1_isg">
+		<text>Rifle Dynamics Draco ISG</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text> A custom model developed on the foundation of the Draco AK by the American company Rifle Dynamics. It is one of the most high-quality and modern weapons in the Zone. Several shipments of Rifle Dynamics' AK variants were sent to Ukraine for weapons trials with the goal of adoption by Ukrainian Special Forces, Rifle Dynamics was looking to sell manufacturing licenses to Eastern European Powers. However the trials were cancelled and the AK12 2016 was adopted along with the AEK for special forces. Several of these Rifle Dynamics Demonstration and Trials guns have slowly made their way to the zone over the years and are exclusively used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Devices: ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] • %c[ui_gray_2] Scopes: All scopes for picatinny.\n
+		%c[d_purple] • %c[ui_gray_2] Silencer: Rifle Dynamics ISG Sound Suppressor\n </text>
+	</string>
+</string_table>
